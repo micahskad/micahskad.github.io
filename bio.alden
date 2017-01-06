@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+<style>
+.city {
+    float: left;
+    margin: 5px;
+    padding: 15px;
+    max-width: 300px;
+    height: 300px;
+    border: 1px solid black;
+} 
+</style>
+</head>
+<body background="http://vignette2.wikia.nocookie.net/symbolism/images/4/43/Orange.png/revision/latest?cb=20140818120046">
+
+<h1>Alden Keshap</h1>
+<p>(Because he told me to)</p>
+<div class="city">
+  <h2>School</h2>
+  <p>Alden is very smart, and participates in multiple extra-curricular activities, such as coding, robotics, and DI.</p>
+  <p>His 2016-17 Robotics Team made it to the states compeitition. In Math Counts in 2015-16, he won the area cometition against many older competetors, and moved on to the states. On his 2015-16 DI team (which I was on), he won 3rd overall, winning 1st in one competition, and 3rd in another.</p>
+</div>
+
+<div class="city">
+  <h2>Home</h2>
+  <p>Alden has two younger sisters, whom he says are extremely annoying.</p> 
+  <p>He address is 3334 Turnberry Circle, Charlottesville, Virgina, United States of America.</p>
+</div>
+
+<div class="city">
+  <h2>Personal</h2>
+  <p>Alden was born Febuary 21, 2004</p>
+  <p>He is 5 feet tall, and weighs about 90 pounds.</p>
+</div>
+
+<div class="city">
+  <h2>Email!</h2>
+  <p>Email Alden at arkj7@k12albemarle.org</p>
+  <p>He also has a fake email, at lavenderbrown1235@gmail.com, among others.</p>
+<button type="button"><a href="mailto:arkj7@k12albemarle.org?Subject=Hello%20again" target="_top">Send Alden Mail</button>
+  </div>
+
+  <footer>Copyright © Micah Skadron</footer>
+  
+</body>
+</html>
