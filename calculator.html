@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body background="https://s-media-cache-ak0.pinimg.com/originals/ce/e0/2e/cee02e466b9836019882bae03085c6a9.jpg">
-<h3>Micah's Calculator</h3>
+<h2>Micah's Calculator</h2>
 <br/>
 <style>
 #calc{width:300px;height:250px;}
@@ -42,9 +42,16 @@
 <tr>
 <td><input id="btn" type=button value="1/x" OnClick="calc.display.value=1/calc.display.value"></td>
 <td><input id="btn" type=button value=" " OnClick="calc.display.value=' "></td>
-<td><input id="btn" type=button value=" " OnClick="calc.display.value=' "></td>
+<td><input id="btn" type=button value="x^2" OnClick="calc.display.value=Math.pow(calc.display.value,2)"></td>
 <td><input id="btn" type=button value="=" OnClick="calc.display.value=eval(calc.display.value)"></td>
+</tr>
+<tr>
+<td><input id="btn" type=button value="MR" OnClick="calc.display.value=calc.M.value"></td>
+<td><input id="btn" type=button value="M+" OnClick="calc.M.value=(Number(calc.M.value))+(Number(calc.display.value))"></td>
+<td><input id="btn" type=button value="MS" OnClick="calc.M.value=calc.display.value"></td>
+
 </table>
 </form>
+
 </body>
 </html>
