@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+<style>
+.birthday {
+    float: left;
+    margin: 5px;
+    padding: 15px;
+    max-width: 1200px;
+    height: 300px;
+    border: 1px solid magenta;
+} 
+</style>
+</head>
+<body background="https://www.google.com/imgres?itok%3D6smjAQ7y&imgrefurl=https://engineering.virginia.edu/faculty/kevin-skadron&h=200&w=200&tbnid=KJ3gItCtyEbRVM:&q=kevin+skadron&tbnh=160&tbnw=160&usg=AI4_-kTD96SMk2DJG6lgM9kB0z-uZQ6lGw&vet=12ahUKEwilp_WU_KTfAhVNzlkKHd8JDO8Q_B0wD3oECAQQEQ..i&docid=5SmPno_Z0OU0iM&itg=1&sa=X&ved=2ahUKEwilp_WU_KTfAhVNzlkKHd8JDO8Q_B0wD3oECAQQEQ&surl=1&safe=active"
+<h1><font color="black">Happy Mother's Day!</font></h1>
+<p>5/13/18</p>
+<div class="birthday">
+  <h2><font color="black">Happy Mother's Day!</font></h2>
+  <p><font color="black">Happy Mother's Day! I Hope you have a magnificent day!</font></p>
+  <p><font color="black">You are an outstanding mother, and I don't know what we would do without you. I hope this serves well as a piece of gratitude towards you. Happy Mother's Day!</font></p>
+</div>
+
+  <footer><font color="blue">Copyright © Micah Skadron</font></footer>
+  
+</body>
+</html>
